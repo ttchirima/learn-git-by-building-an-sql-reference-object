@@ -74,3 +74,4 @@ git log --oneline
 git branch
 git merge feat/add-create-table-reference
 git log --oneline
+git branch -d feat/add-create-table-reference
