@@ -30,3 +30,4 @@ mkdir sql_reference
 cd sql_reference
 git init
 ls --color=auto -a
+git status
