@@ -28,3 +28,4 @@ cd sql_reference
 echo hello git
 mkdir sql_reference
 cd sql_reference
+git init
