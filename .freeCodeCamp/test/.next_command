@@ -62,3 +62,4 @@ git branch
 git checkout feat/add-create-table-reference
 git branch
 git status
+git diff
