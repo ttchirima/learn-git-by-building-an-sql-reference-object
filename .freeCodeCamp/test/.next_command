@@ -80,3 +80,4 @@ git checkout -b feat/add-drop-table-reference
 git status
 git diff
 git add sql_reference.json
+git commit -m "feat: add drop table reference"
