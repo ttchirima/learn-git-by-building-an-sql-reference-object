@@ -88,3 +88,4 @@ git branch -d feat/add-drop-table-reference
 git checkout -b feat/add-column-references
 git diff
 git add sql_reference.json
+git commit -m "feat: add column reference"
