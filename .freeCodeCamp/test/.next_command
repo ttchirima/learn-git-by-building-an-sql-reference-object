@@ -103,3 +103,4 @@ git merge fix/create-table-syntax
 git log
 git log --oneline
 git branch -d fix/create-table-syntax
+git checkout feat/add-column-references
