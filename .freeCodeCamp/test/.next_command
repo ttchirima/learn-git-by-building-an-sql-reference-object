@@ -109,3 +109,4 @@ git rebase main
 git log --oneline
 git status
 git add sql_reference.json
+git commit -m "feat: add drop column reference"
