@@ -93,3 +93,6 @@ git log --oneline
 git branch main
 git checkout main
 git checkout -b fix/create-table-syntax
+git status
+git log
+git add sql_reference.json
