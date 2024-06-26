@@ -70,3 +70,4 @@ git log --oneline
 git checkout
 git checkout -b main
 git checkout main
+git log --oneline
